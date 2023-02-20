@@ -1,0 +1,10 @@
+version: '3'
+services:
+  sample_time_app:
+    image: sample_time_app:1.0
+    ports:
+      - 8080:8080
+    
+       
+      
+
